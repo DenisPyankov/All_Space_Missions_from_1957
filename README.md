@@ -2,8 +2,9 @@
 
 ## Задача №1
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DenisPyankov/All_Space_Missions_from_1957/blob/main/1.TASK1_EDA.ipynb)
-
+<a href="https://colab.research.google.com/github/DenisPyankov/All_Space_Missions_from_1957/blob/main/1.TASK1_EDA.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200">
+</a>
 
 ### 1. Описание набора данных
 
@@ -57,7 +58,9 @@
 
 ## Задача №2
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DenisPyankov/All_Space_Missions_from_1957/blob/main/2.TASK_statsforecast.ipynb)
+<a href="https://colab.research.google.com/github/DenisPyankov/All_Space_Missions_from_1957/blob/main/2.TASK_statsforecast.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200">
+</a>
 
 ![График](images/2.1.png)
 ![График](images/2.2.png)
@@ -143,7 +146,9 @@ AutoARIMA может служить **хорошим базовым прогно
 
 ## Задача №3
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DenisPyankov/All_Space_Missions_from_1957/blob/main/3.TASK3_3ML_3DL.ipynb)
+<a href="https://colab.research.google.com/github/DenisPyankov/All_Space_Missions_from_1957/blob/main/3.TASK3_3ML_3DL.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200">
+</a>
 
 ![График](images/3.1.png)
 ![График](images/3.2.png)
@@ -204,6 +209,10 @@ DL‑модели обучались напрямую на временном р
    - Data‑driven модели дают схожую точечную точность, но **уступают по качеству остатков** (знакочередование, асимметрия, потенциальная гетероскедастичность)
    - По сравнению с классическими статистическими моделями (AutoARIMA, ETS) из задания №2, data‑driven методы не дали кардинального улучшения точности на данном ряде, что подтверждает вывод: для рядов с явной линейной сезонностью и трендом статистические модели остаются сильным бейзлайном.
 
+
+----------------------
+----------------------
+----------------------
 
 
 ## Задача №4
